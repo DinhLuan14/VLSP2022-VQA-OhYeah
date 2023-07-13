@@ -1,0 +1,7 @@
+torch
+sklearn
+datasets
+transformers
+huggingface_hub
+wandb
+polyglot
